@@ -1,4 +1,4 @@
-# Jason Wang(王嘉笙)
+# 王嘉笙(Jason Wang)
 -  Birthday: 2001/07/12 
 -   Education: 國立中央大學/資訊工程學系 
 -   Location: 高雄市
